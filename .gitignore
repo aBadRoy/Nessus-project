@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Nessus
+*.nessus
+*.nbe
+*.nsr
+
+# Metasploit
+*.rc
+*.msf
+
+# General
+*.log
+*.tmp
+*.bak
+*.swp
